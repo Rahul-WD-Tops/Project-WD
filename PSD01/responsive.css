@@ -1,0 +1,226 @@
+@media (max-width: 576px) {
+
+    .burger img {
+        padding: 0;
+        height: 300px;
+        width: 300px;
+    }
+
+    .section-text12 h2 {
+        font-size: 30px;
+        padding: 20px;
+    }
+
+    .email-sub input {
+        margin-left: -25px;
+    }
+
+    .main-text p {
+        font-size: 24px;
+    }
+
+    .section-wrapper5 h2 {
+        font-size: 39px;
+        padding: 5px;
+    }
+
+    .main-text p {
+        font-size: 10px;
+    }
+
+    .main-text h1 {
+        font-size: 45px;
+    }
+
+    .section-text12 p {
+        font-size: 16px;
+    }
+
+    .col-container {
+        flex-direction: column;
+    }
+
+    .footer-wrapper {
+
+        margin-top: 473px;
+
+    }
+
+    .col-60 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+
+    .section-wrapper {
+        display: none;
+    }
+
+    .army-solder11 {
+        display: none;
+    }
+
+    .army-solder1 {
+        display: none;
+    }
+
+
+    .army-solder1 {
+        display: none;
+    }
+
+    .col-container {
+        gap: 30px;
+    }
+
+    .col-60 {
+        gap: 50px;
+    }
+
+    .nav-menu {
+        font-size: 13px;
+    }
+
+}
+
+
+
+@media (max-width: 767.98px) {
+    .section-wrapper {
+        display: none;
+    }
+
+    .army-solder11 {
+        display: none;
+    }
+
+    .army-solder1 {
+        display: none;
+    }
+
+
+    .army-solder1 {
+        display: none;
+    }
+
+
+
+    .nav-menu {
+        font-size: 20px;
+    }
+
+
+    .section-wrapper5 h2 {
+
+        font-size: 60px;
+    }
+
+    .col-container {
+        flex-direction: column;
+    }
+
+    .col-60 {
+        /* padding: 200px; */
+    }
+
+    .footer-wrapper {
+        margin-top: 500px;
+
+    }
+
+    .col-40 p {
+        font-size: 15px;
+    }
+
+    .footer-wrapper h2 {
+        font-size: 35px;
+    }
+
+
+
+}
+
+
+@media (max-width: 991.98px) {
+    .section-wrapper {
+        display: none;
+    }
+
+    .army-solder11 {
+        display: none;
+    }
+
+    .army-solder1 {
+        display: none;
+    }
+
+
+    .army-solder1 {
+        display: none;
+    }
+
+    .col-60 {
+        /* flex-direction: column; */
+    }
+
+    .col-container {
+        flex-direction: column;
+    }
+
+    .main-text p {
+        font-size: 30px;
+    }
+
+    footer {
+        padding-top: 600px;
+    }
+
+    .footer-wrapper h2 {
+        font-size: 35px;
+        margin-bottom: 41px
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .section-wrapper {
+        display: none;
+    }
+
+    .army-solder11 {
+        display: none;
+    }
+
+    .army-solder1 {
+        display: none;
+    }
+
+
+    .army-solder1 {
+        display: none;
+    }
+}
+
+
+@media (max-width: 1399.98px) {
+    .section-wrapper {
+        display: none;
+    }
+
+    .army-solder11 {
+        display: none;
+    }
+
+    .army-solder1 {
+        display: none;
+    }
+
+
+    .army-solder1 {
+        display: none;
+    }
+
+    .container {
+        width: 80%;
+    }
+}
